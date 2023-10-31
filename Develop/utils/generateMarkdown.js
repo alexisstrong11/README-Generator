@@ -79,7 +79,7 @@ ${data.tests}
 For questions, please contact ${data.name} via:
 - Email: ${data.email}
 - GitHub: [${data.username}](https://github.com/${data.username})
-`;
+;
 }
 
 `;
